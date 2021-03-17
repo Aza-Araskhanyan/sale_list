@@ -1,0 +1,139 @@
+/*Header mobile*/
+nav{
+    width: 100%;
+}
+.header-container{
+    width: 80%;
+}
+.logo{
+    position: relative;
+    bottom: 15px;
+    right: 90px;
+}
+.logo-top{
+    width: 100%;
+    position: absolute;
+    left: 14px;
+}
+.logo-down{
+    width: 100%;
+}
+.nav-menu{
+    position: relative;
+    bottom: 18px;
+}
+.menu-item{
+    font-size: 21px;
+    margin: 0 -75px;
+}
+.call{
+    width: 225px;
+    margin: 0;
+    position: relative;
+    top: 140px;
+    left: 30px;
+}
+.phone-number{
+    font-size: 20px;
+}
+.call-now{
+    font-size: 16px;
+}
+.find{
+    font-size: 28px;
+}
+
+/*Main*/
+
+.sort-list{
+    width: 50%
+}
+.sort-by-text{
+    font-size: 18px;
+}
+.sort-options{
+    font-size: 17px;
+}
+.sort-price{
+    margin-right: 3px;
+}
+.sort-age{
+    margin-right: 3px;
+}
+.vector-down-price{
+    width: 12px;
+}
+.vector-down-age{
+    width: 12px;
+}
+.buy-list{
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 320px;
+    width: 100%;
+}
+.buying-container{
+    flex-grow: 1;
+    min-width: 320px;
+    margin: 15px 20px;
+    width: 40%;
+}
+/*show more*/
+.show-more>button{
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: 1px solid rgba(80, 80, 80, 0.57);
+}
+.scroll-up{
+    width: 35px;
+    height: 35px;
+    margin-top: 15px;
+}
+.svg-scroll{
+    width: 20px;
+    height: 20px;
+    transform: translate(40%, 40%);
+}
+
+/*Footer*/
+footer{
+    width: 87%;
+    margin: 0;
+    padding: 30px 50px 0;
+    margin-top: 70px
+}
+.footer-container{
+    width: 85%;
+}
+.footer-text{
+    width: 40%;
+    margin: 10px;
+}
+.footer-text-up{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.footer-text-down{
+    font-size: 18px;
+}
+.mail-container{
+    width: 45%;
+    margin-bottom: 20px;
+}
+.email-input{
+    height: 0;
+    padding: 15px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.subscribe-container{
+    margin: 0;
+}
+.subscribe-input{
+    height: 30px;
+    width: 100px;
+    font-size: 11px;
+}
+.checkbox{
+    font-size: 16px;
+}

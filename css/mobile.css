@@ -1,0 +1,145 @@
+/*Header mobile*/
+nav{
+    width: 100%;
+}
+.header-container{
+    width: 90%;
+}
+.logo{
+    width: 15%;
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+}
+.logo-top{
+    width: 100%;
+    position: absolute;
+    left: 9px;
+}
+.logo-down{
+    width: 100%;
+}
+.nav-menu{
+    position: relative;
+    bottom: 18px;
+}
+.menu-item{
+    font-size: 16px;
+    margin: 0 8px;
+}
+.call{
+    top: 160px;
+    position: absolute;
+    margin-left: 40px;
+}
+.phone-number{
+   font-size: 16px;
+}
+.call-now{
+    font-size: 15px;
+}
+.find{
+    position: relative;
+    top: 100px;
+    left: 15px;
+    font-size: 20px;
+    padding: 0
+}
+.sort-list{
+    margin: 25px;
+}
+.sort-by{
+    min-width: 330px;
+    width: 100%;
+    margin: 0;
+}
+.sort-by-text{
+    font-size: 16px;
+}
+.sort-options{
+    font-size: 15px;
+    margin-right: -10px;
+}
+.sort-price{
+    margin-right: 3px;
+}
+.sort-age{
+    margin-right: 3px;
+}
+.vector-down-price{
+    width: 12px;
+}
+.vector-down-age{
+    width: 12px;
+}
+.buy-list{
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 320px;
+    width: 100%;
+}
+.buying-container{
+    flex-grow: 1;
+    min-width: 320px;
+    margin: 15px 20px;
+    width: 100%;
+}
+/*show more*/
+.show-more>button{
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: 1px solid rgba(80, 80, 80, 0.57);
+}
+.scroll-up{
+    width: 35px;
+    height: 35px;
+    margin-top: 15px;
+}
+.svg-scroll{
+    width: 20px;
+    height: 20px;
+    transform: translate(40%, 40%);
+}
+
+/*Footer*/
+footer{
+    width: 94%;
+    margin: 0;
+    padding: 10px;
+    margin-top: 70px
+}
+.footer-container{
+    width: 85%;
+}
+.footer-text{
+    width: 40%;
+    margin: 10px 20px;
+}
+.footer-text-up{
+    font-size: 27px;
+    margin: 0;
+}
+.footer-text-down{
+    font-size: 16px;
+}
+.mail-container{
+    width: 45%;
+    margin-bottom: 20px;
+}
+.email-input{
+    height: 0;
+    padding: 15px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.subscribe-container{
+    margin: 0;
+}
+.subscribe-input{
+    height: 30px;
+    width: 100px;
+    font-size: 11px;
+}
+.checkbox{
+   font-size: 16px;
+}
